@@ -16,8 +16,7 @@ void draw() {
   myCar2.drive();
   myCar2.display();
 }
-
-// Even though there are multiple objects, we still only need one class. 
+ 
 // No matter how many cookies we make, only one cookie cutter is needed.
 class Car { 
   color c;
